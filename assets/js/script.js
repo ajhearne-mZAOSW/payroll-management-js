@@ -92,7 +92,7 @@ const displayAverageSalary = function (employeesArray) {
   }
 
   // find average salary: divide by total number of employees
-  averageSalary = totalSalary / employeesArray.length;
+  averageSalary = (totalSalary / employeesArray.length).toFixed(2);
   console.log(`The average employee salary is $${averageSalary}`);
 };
 
