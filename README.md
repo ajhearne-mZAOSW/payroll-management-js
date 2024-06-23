@@ -1,4 +1,5 @@
 # payroll-managment-js
+
 03-JavaScript/02-Challenge - using Javascript to build an employee payroll tracker/payroll management software.
 
 ## Description
@@ -6,6 +7,7 @@
 Module 3 - JavaScript: Payroll Management Software
 
 Development of JavaScript code to create a employee payroll management system, through the execution of the following:
+
 - clickable button to begin the data entry process
 - mathematical calculations that are logged to the console
 - sorting the employee data alphabetically
@@ -49,6 +51,7 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 Git and an IDE (VSCode recommended) are required to be installed on your computer to clone and view the code for this web application.
 
 From your command line:
+
 ```md
 ### Clone this repository
 $ git clone git@github.com:ajhearne-mZAOSW/payroll-management-js.git
@@ -68,7 +71,7 @@ The following image shows the web application's appearance and functionality:
 
 ![Animation shows input of employees to an employee payroll tracker.](./assets/images/employee-payroll-tracker-demo.gif)
 
-The web application is depoloyed using GitHub Pages: (https://ajhearne-mzaosw.github.io/payroll-management-js/).
+The web application is depoloyed using GitHub Pages: (<https://ajhearne-mzaosw.github.io/payroll-management-js/>).
 
 ## Credits
 
